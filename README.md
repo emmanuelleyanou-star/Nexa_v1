@@ -95,3 +95,14 @@ Ce projet permet de : - Comprendre la programmation réseau bas niveau en
 C - Manipuler WinSock2 - Gérer la concurrence (multi-threading) -
 Concevoir une architecture P2P simple - Construire un projet technique
 pour portfolios 
+
+🎯 Compétences acquises
+
+Ce projet m’a permis de développer :
+
+- La maîtrise du langage C
+- La compréhension des communications réseau (TCP/UDP)
+- L’utilisation de l’API Winsock sous Windows
+- La gestion des threads et de la concurrence
+- L’utilisation de Git et GitHub pour le travail collaboratif
+- La capacité à déboguer et tester une application réseau
