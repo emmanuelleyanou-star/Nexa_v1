@@ -4,6 +4,8 @@
 #include <ws2tcpip.h>
 #include <windows.h>
 
+// Modif de Daniella
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
